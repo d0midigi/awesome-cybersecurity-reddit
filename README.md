@@ -1,15 +1,17 @@
 <section>
 <h1>Awesome Cybersecurity Subreddits</h1>
 <p><a href="https://github.com/sindresorhus/awesome" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /> </a></p>
-<p><img src="https://github.com/d0midigi/awesome-cybersecurity-subreddits/blob/main/reddit-glitch.png?raw=true" alt="Awesome Cybersecurity Reddit Communities" /></p>
-<p>A curated collection of cybersecurity-oriented subreddits, tools, and essential links.</p>
-<table>
-<tbody>
-<tr>
-<td style="border-color: #fe0942; border-width: 3px; background-color: #000000;"><span style="color: #ffffff;"><em><strong><span style="background-color: #000000;">📌 Note:</span>&nbsp;</strong>The resources provided are meant for your convenience and are not ranked in order of improvement. Also, while there are numerous subreddits available, the selection focuses on the most active and participatory communities on Reddit. All listed communities have been verified as active and functional thereby guiding you to efficient discussions. </em></span></td>
-</tr>
-</tbody>
-</table>
+<p><img src="https://github.com/d0midigi/awesome-cybersecurity-subreddits/blob/main/reddit-glitch.png?raw=true" alt="Awesome Cybersecurity Reddit Communities" width="745" height="550" /></p><br />
+<p>			Just another GitHub-inspired Awesome list - a curated collection of cybersecurity-oriented subreddits, tools, and essential links.</p>
+
+      	<div class="panel-wrapper">
+				<div class="panel-head" style="background-color: #00ccdd"> 📌 <b>Note:</b>
+				</div>
+            <div class="panel-body">
+					The resources provided are meant for your convenience and are not ranked in order of improvement. Also, while there are numerous subreddits available, the selection focuses on the most active and participatory communities on Reddit. All listed communities have been verified as active and functional thereby guiding you to efficient discussions.
+				</div>
+			</div>
+     
 <hr />
 <h2><span style="color: #fe0942;"> Contribute</span></h2>
 <p>I welcome community input! Feel free to <span style="color: #fe0942;"><a style="color: #fe0942;" href="https://www.github.io/d0midigi/awesome-cybersecurity-reddit"><strong>fork</strong></a>&nbsp;</span>this repository to keep your own copy. If you have a suggestion for a new resource to be added or see something that needs a modification, please <strong>open a Pull Request</strong> to help keep this list up to date.</p>
@@ -77,9 +79,9 @@
 <li><span style="color: #fe0942;"><strong><a style="color: #fe0942;" href="https://www.reddit.com/hackaday" target="_blank" rel="noopener noreferrer">r/hackaday</a>:</strong></span> Hackaday serves up fresh hacks every day from around the internet. Read the latest articles from hackaday.com and all things of interest to hardware hackers, designers, and engineers.<br /><br /></li>
 <li><span style="color: #fe0942;"><strong><a style="color: #fe0942;" href="https://www.reddit.com/r/hardwarehacking" target="_blank" rel="noopener noreferrer">r/hardwarehacking</a>:</strong></span> The intersection of DIY, electrical engineering, repurposing, and security. Posts or discussions about improving, repurposing, hacking, or creating new devices out of old things are welcome.<br /><br /></li>
 <li><span style="color: #fe0942;"><a style="color: #fe0942;" href="https://www.reddit.com/r/hackernews" target="_blank" rel="noopener noreferrer"><strong>r/hackernews</strong></a><strong>:</strong></span> A subreddit community that is a mirror of the front page of Hacker News.<br /><br /></li>
-<li><span style="color: #fe0942;"><strong><a style="color: #fe0942;" href="https://www.reddit.com/r/Hacking_Tricks" target="_blank" rel="noopener noreferrer">r/Hacking_Tricks</a>:</strong></span> Hacking_tricks is a community for the latest hacking tips and tricks as well as the latest technology news and gadget information. Modded apps and premium accounts are also shared there.<br /><br /></li>
+<li><span style="color: #fe0942;"><strong><a style="color: #fe0942;" href="https://www.reddit.com/r/Hacking_Tricks" target="_blank" rel="noopener noreferrer">r/Hacking_Tricks</a>:</strong></span> Hacking_tricks is a community for the latest hacking tips and tricks as well as the latest technology news and gadget information. Modded apps and premium accounts are also shared here.<br /><br /></li>
 <li><span style="color: #fe0942;"><strong><a style="color: #fe0942;" href="https://www.reddit.com/r/HackingPeople" target="_blank" rel="noopener noreferrer">r/HackingPeople</a>:</strong></span> This subreddit is about hacking people through the use of concepts, machines, or social strategies.<br /><br /></li>
-<li><span style="color: #fe0942;"><strong><a style="color: #fe0942;" href="https://www.reddit.com/r/ActualHacking" target="_blank" rel="noopener noreferrer">r/ActualHacking</a>: </strong></span>This is a subreddit where people that actually know how to hack can post. This includes SQLi, rooting, and any sort of hacking you can possibly think of, post it there.</li>
+<li><span style="color: #fe0942;"><strong><a style="color: #fe0942;" href="https://www.reddit.com/r/ActualHacking" target="_blank" rel="noopener noreferrer">r/ActualHacking</a>: </strong></span>This is a subreddit where people that actually know how to hack can post. This includes SQLi, rooting, and any sort of hacking you can possibly think of, post it here.</li>
 <li><span style="color: #fe0942;"><strong><a style="color: #fe0942;" href="https://www.reddit.com/r/GuidedHacking" target="_blank" rel="noopener noreferrer">r/GuidedHacking</a>:</strong></span> This community hosts security-related topics such as reverse engineering, game hacking, exploit development, and malware analysis.<br /><br /></li>
 <li><span style="color: #fe0942;"><strong><a style="color: #fe0942;" href="https://www.reddit.com/r/Real_Hacking" target="_blank" rel="noopener noreferrer">r/Real_Hacking</a>:</strong></span> This subreddit community provides news on relevant hacking technologies, general hacking topics are debated and discussed here.<br /><br /></li>
 <li><span style="color: #fe0942;"><strong><a style="color: #fe0942;" href="https://www.reddit.com/r/hackerrankonreddit" target="_blank" rel="noopener noreferrer">r/hackerrankonreddit</a>:</strong></span> This is the official subreddit of HackerRank. Dedicated to tech and all things tech.<br /><br /></li>
